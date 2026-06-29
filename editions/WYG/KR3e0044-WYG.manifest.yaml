@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR3e0044/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3e0044/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 產寶諸方
+  date: '2015-08-24 23:05:36.086786'
+  source:
+    repository: kanripo
+    path: KR3e0044
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0044_000-WYG.yaml, hash: 'sha256:54f2848c65809eb6df2087e78f0d45a436fe53b41338891b4fc53bd4a0ee03e3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0044_000-WYG.markers.yaml, hash: 'sha256:ac7072ef174014428a039a46864a4727aca212c6bd19d19a3dee86730890300c'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0044_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 467
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0044_WYG_000-3a
+    span:
+    - body
+    - 467
+    - 881
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0044_WYG_000-5a
+    span:
+    - body
+    - 881
+    - 7475
+  label: 産寶諸方
+  type: section
+  level: 1
+hash: sha256:46062bc1e80de93e7f656e5e9ce629b8aa0cb37cff43aec57467c280397c7ca2
