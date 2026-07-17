@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3e0044_000-WYG.yaml, hash: 'sha256:54f2848c65809eb6df2087e78f0d45a436fe53b41338891b4fc53bd4a0ee03e3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0044_000-WYG.markers.yaml, hash: 'sha256:ac7072ef174014428a039a46864a4727aca212c6bd19d19a3dee86730890300c'}
+  - {seq: 0, role: markers, filename: assets/KR3e0044_000-WYG.markers.yaml, hash: 'sha256:ba49ad1e40fe4cb0a604ef66abe4ae19f1cdd4ba41d7248cdc4b01101675f598'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 産寶諸方
   type: section
   level: 1
-hash: sha256:46062bc1e80de93e7f656e5e9ce629b8aa0cb37cff43aec57467c280397c7ca2
+hash: sha256:a0a2e019ec8cc1a0f0e3efb2abce7e85b00c5fa42cc76d42a47fbe4bd0da15a3
